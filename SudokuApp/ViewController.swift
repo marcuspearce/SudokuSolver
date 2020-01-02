@@ -21,17 +21,6 @@ class ViewController: UIViewController {
     var helper = Helper()
     
     
-    
-    @IBOutlet weak var tile01: UIButton!
-    @IBOutlet weak var tile02: UIButton!
-    @IBOutlet weak var tile03: UIButton!
-    @IBOutlet weak var tile04: UIButton!
-    @IBOutlet weak var tile05: UIButton!
-    @IBOutlet weak var tile06: UIButton!
-    @IBOutlet weak var tile07: UIButton!
-    @IBOutlet weak var tile08: UIButton!
-    @IBOutlet weak var tile09: UIButton!
-    
     // BELOW CODE USED FOR CALCULATING CORRECT ITEM IN ARRAY GIVEN ROW AND COLUMN
 //    let tileNum = row*9 + col;  -> i*9 + j
     
@@ -82,6 +71,39 @@ class ViewController: UIViewController {
         }
         
         
+        
+    }
+    
+    
+    
+    
+    // Load sample sudoku board
+    @IBAction func pressSampleButton(_ sender: Any) {
+        
+        print("yesss")
+        
+        let sampleBoard = [
+            [0,0,0,2,6,0,7,0,1],
+            [6,8,0,0,7,0,0,9,0],
+            [1,9,0,0,0,4,5,0,0],
+            [8,2,0,1,0,0,0,4,0],
+            [0,0,4,6,0,2,9,0,0],
+            [0,5,0,0,0,3,0,2,8],
+            [0,0,9,3,0,0,0,7,4],
+            [0,4,0,0,5,0,0,3,6],
+            [7,0,3,0,1,8,0,0,0]
+        ];
+        
+        // ~PRINT~ FUNC : update tiles w/ new values
+        for i in 0...8
+        {
+            for j in 0...8
+            {
+                // use below to set image to image of tile w/ value named: "<value>"
+                let btnImage = UIImage(named: "\(sampleBoard[i][j])")
+                collectionOfButtons?[i*9 + j].setImage(btnImage, for: UIControl.State.normal);
+            }
+        }
         
     }
     

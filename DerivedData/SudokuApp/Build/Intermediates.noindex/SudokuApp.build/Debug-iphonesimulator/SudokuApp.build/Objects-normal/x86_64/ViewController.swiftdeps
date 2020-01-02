@@ -7,16 +7,8 @@ provides-member:
 - ["9SudokuApp14ViewControllerC", ""]
 provides-dynamic-lookup:
 - "collectionOfButtons"
+- "pressSampleButton"
 - "pressSolveButton"
-- "tile01"
-- "tile02"
-- "tile03"
-- "tile04"
-- "tile05"
-- "tile06"
-- "tile07"
-- "tile08"
-- "tile09"
 - "viewDidLoad"
 depends-top-level:
 - !private "*"
@@ -155,18 +147,10 @@ depends-member:
 - ["So8NSObjectC", "collectionOfButtons"]
 - ["So8NSObjectC", "helper"]
 - ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "pressSampleButton"]
 - ["So8NSObjectC", "pressSolveButton"]
 - !private ["So8NSObjectC", "print"]
 - !private ["So8NSObjectC", "setImage"]
-- ["So8NSObjectC", "tile01"]
-- ["So8NSObjectC", "tile02"]
-- ["So8NSObjectC", "tile03"]
-- ["So8NSObjectC", "tile04"]
-- ["So8NSObjectC", "tile05"]
-- ["So8NSObjectC", "tile06"]
-- ["So8NSObjectC", "tile07"]
-- ["So8NSObjectC", "tile08"]
-- ["So8NSObjectC", "tile09"]
 - ["So8NSObjectC", "viewDidLoad"]
 - ["So8NSObjectP", "Helper"]
 - !private ["So8NSObjectP", "State"]
@@ -266,18 +250,10 @@ depends-member:
 - ["So11UIResponderC", "collectionOfButtons"]
 - ["So11UIResponderC", "helper"]
 - ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "pressSampleButton"]
 - ["So11UIResponderC", "pressSolveButton"]
 - !private ["So11UIResponderC", "print"]
 - !private ["So11UIResponderC", "setImage"]
-- ["So11UIResponderC", "tile01"]
-- ["So11UIResponderC", "tile02"]
-- ["So11UIResponderC", "tile03"]
-- ["So11UIResponderC", "tile04"]
-- ["So11UIResponderC", "tile05"]
-- ["So11UIResponderC", "tile06"]
-- ["So11UIResponderC", "tile07"]
-- ["So11UIResponderC", "tile08"]
-- ["So11UIResponderC", "tile09"]
 - ["So11UIResponderC", "viewDidLoad"]
 - ["So30UIResponderStandardEditActionsP", "Helper"]
 - !private ["So30UIResponderStandardEditActionsP", "State"]
@@ -333,17 +309,9 @@ depends-member:
 - ["So16UIViewControllerC", "collectionOfButtons"]
 - ["So16UIViewControllerC", "helper"]
 - ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "pressSampleButton"]
 - ["So16UIViewControllerC", "pressSolveButton"]
 - !private ["So16UIViewControllerC", "print"]
-- ["So16UIViewControllerC", "tile01"]
-- ["So16UIViewControllerC", "tile02"]
-- ["So16UIViewControllerC", "tile03"]
-- ["So16UIViewControllerC", "tile04"]
-- ["So16UIViewControllerC", "tile05"]
-- ["So16UIViewControllerC", "tile06"]
-- ["So16UIViewControllerC", "tile07"]
-- ["So16UIViewControllerC", "tile08"]
-- ["So16UIViewControllerC", "tile09"]
 - ["So16UIViewControllerC", "viewDidLoad"]
 - ["9SudokuApp14ViewControllerC", "Array"]
 - ["9SudokuApp14ViewControllerC", "Helper"]
@@ -354,17 +322,9 @@ depends-member:
 - ["9SudokuApp14ViewControllerC", "deinit"]
 - ["9SudokuApp14ViewControllerC", "helper"]
 - ["9SudokuApp14ViewControllerC", "init"]
+- ["9SudokuApp14ViewControllerC", "pressSampleButton"]
 - ["9SudokuApp14ViewControllerC", "pressSolveButton"]
 - !private ["9SudokuApp14ViewControllerC", "print"]
-- ["9SudokuApp14ViewControllerC", "tile01"]
-- ["9SudokuApp14ViewControllerC", "tile02"]
-- ["9SudokuApp14ViewControllerC", "tile03"]
-- ["9SudokuApp14ViewControllerC", "tile04"]
-- ["9SudokuApp14ViewControllerC", "tile05"]
-- ["9SudokuApp14ViewControllerC", "tile06"]
-- ["9SudokuApp14ViewControllerC", "tile07"]
-- ["9SudokuApp14ViewControllerC", "tile08"]
-- ["9SudokuApp14ViewControllerC", "tile09"]
 - ["9SudokuApp14ViewControllerC", "viewDidLoad"]
 - !private ["s14_ArrayProtocolP", "setImage"]
 - !private ["s14_ArrayProtocolP", "subscript"]
@@ -1682,4 +1642,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "28033a6c154e0f97b0fc874731432f07"
+interface-hash: "9d5c921b71606832b6b8ad4f6c3f1e87"

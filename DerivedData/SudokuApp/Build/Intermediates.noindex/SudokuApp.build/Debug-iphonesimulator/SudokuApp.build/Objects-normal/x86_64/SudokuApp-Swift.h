@@ -234,16 +234,8 @@ SWIFT_CLASS("_TtC9SudokuApp13SceneDelegate")
 SWIFT_CLASS("_TtC9SudokuApp14ViewController")
 @interface ViewController : UIViewController
 @property (nonatomic, copy) IBOutletCollection(UIButton) NSArray<UIButton *> * _Nullable collectionOfButtons;
-@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified tile01;
-@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified tile02;
-@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified tile03;
-@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified tile04;
-@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified tile05;
-@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified tile06;
-@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified tile07;
-@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified tile08;
-@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified tile09;
 - (IBAction)pressSolveButton:(id _Nonnull)sender;
+- (IBAction)pressSampleButton:(id _Nonnull)sender;
 - (void)viewDidLoad;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;

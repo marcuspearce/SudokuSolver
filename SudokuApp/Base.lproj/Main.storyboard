@@ -16,7 +16,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8b5-aD-sgF">
-                                <rect key="frame" x="30" y="682" width="354" height="30"/>
+                                <rect key="frame" x="30" y="677" width="354" height="30"/>
                                 <state key="normal" title="Solve!!!"/>
                                 <connections>
                                     <action selector="pressSolveButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="BPR-pb-lI6"/>
@@ -423,28 +423,29 @@
                                     </stackView>
                                 </subviews>
                             </stackView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7KR-rf-J04" userLabel="Sample Problem">
+                                <rect key="frame" x="30" y="757" width="354" height="30"/>
+                                <state key="normal" title="Sample Problem"/>
+                                <connections>
+                                    <action selector="pressSampleButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="DEi-bT-4t9"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="8b5-aD-sgF" secondAttribute="bottom" constant="150" id="6NR-28-yBK"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="3bt-4r-U24" secondAttribute="trailing" constant="30" id="Csb-qv-r8X"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="7KR-rf-J04" secondAttribute="trailing" constant="30" id="M27-3j-FEm"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="8b5-aD-sgF" secondAttribute="trailing" constant="30" id="TZc-Iy-yof"/>
                             <constraint firstItem="3bt-4r-U24" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="50" id="Vsd-rv-dI2"/>
+                            <constraint firstItem="7KR-rf-J04" firstAttribute="top" secondItem="8b5-aD-sgF" secondAttribute="bottom" constant="50" id="WeI-Xj-Yr0"/>
+                            <constraint firstItem="7KR-rf-J04" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="30" id="XaN-2i-Z1c"/>
                             <constraint firstItem="8b5-aD-sgF" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="30" id="Xfh-oc-rOV"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="7KR-rf-J04" secondAttribute="bottom" constant="75" id="flP-ZW-sqy"/>
                             <constraint firstItem="3bt-4r-U24" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="30" id="rNE-1R-oII"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="tile01" destination="EGq-fL-re9" id="pZ4-Lr-6e8"/>
-                        <outlet property="tile02" destination="d65-Eb-mWy" id="pRp-0N-NfV"/>
-                        <outlet property="tile03" destination="jD0-cJ-73Y" id="tdx-Cp-e5y"/>
-                        <outlet property="tile04" destination="vcJ-j1-ue1" id="ayH-Or-HFP"/>
-                        <outlet property="tile05" destination="NyC-9b-gmb" id="zbs-Mp-xh0"/>
-                        <outlet property="tile06" destination="bf4-nT-FIe" id="OZ3-YN-6Z2"/>
-                        <outlet property="tile07" destination="Zf4-sy-eV6" id="R4M-0a-WRA"/>
-                        <outlet property="tile08" destination="ae1-xe-4jH" id="W0S-Gj-ywj"/>
-                        <outlet property="tile09" destination="JLE-0I-UBY" id="ASl-Uo-HrY"/>
                         <outletCollection property="collectionOfButtons" destination="EGq-fL-re9" collectionClass="NSMutableArray" id="HwZ-Hm-cU8"/>
                         <outletCollection property="collectionOfButtons" destination="d65-Eb-mWy" collectionClass="NSMutableArray" id="T2O-oC-Yba"/>
                         <outletCollection property="collectionOfButtons" destination="jD0-cJ-73Y" collectionClass="NSMutableArray" id="LXw-aj-AZt"/>
