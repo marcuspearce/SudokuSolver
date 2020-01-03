@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>09AAC29D-7CC0-4176-A671-17D7AF2E72F4</key>
+		<key>00420D73-A252-4E1A-93A9-BEA0074C8A6B</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,517 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>09AAC29D-7CC0-4176-A671-17D7AF2E72F4.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>SudokuApp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SudokuApp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SudokuApp</string>
-			<key>timeStartedRecording</key>
-			<real>599657958.09821403</real>
-			<key>timeStoppedRecording</key>
-			<real>599657959.27227795</real>
-			<key>title</key>
-			<string>Build SudokuApp</string>
-			<key>uniqueIdentifier</key>
-			<string>09AAC29D-7CC0-4176-A671-17D7AF2E72F4</string>
-		</dict>
-		<key>09C663A7-3349-4815-B086-1947C0F34459</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>09C663A7-3349-4815-B086-1947C0F34459.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>SudokuApp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SudokuApp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SudokuApp</string>
-			<key>timeStartedRecording</key>
-			<real>599396815.17989802</real>
-			<key>timeStoppedRecording</key>
-			<real>599396816.32474196</real>
-			<key>title</key>
-			<string>Build SudokuApp</string>
-			<key>uniqueIdentifier</key>
-			<string>09C663A7-3349-4815-B086-1947C0F34459</string>
-		</dict>
-		<key>0A1548CB-1087-478D-B420-4107D7B6CFA9</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>0A1548CB-1087-478D-B420-4107D7B6CFA9.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>SudokuApp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SudokuApp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SudokuApp</string>
-			<key>timeStartedRecording</key>
-			<real>599397351.98295605</real>
-			<key>timeStoppedRecording</key>
-			<real>599397354.21791303</real>
-			<key>title</key>
-			<string>Build SudokuApp</string>
-			<key>uniqueIdentifier</key>
-			<string>0A1548CB-1087-478D-B420-4107D7B6CFA9</string>
-		</dict>
-		<key>12C8599E-0771-4D4C-BACC-62D25F7AC6C9</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>12C8599E-0771-4D4C-BACC-62D25F7AC6C9.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>SudokuApp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SudokuApp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SudokuApp</string>
-			<key>timeStartedRecording</key>
-			<real>599397041.16044199</real>
-			<key>timeStoppedRecording</key>
-			<real>599397042.45884895</real>
-			<key>title</key>
-			<string>Build SudokuApp</string>
-			<key>uniqueIdentifier</key>
-			<string>12C8599E-0771-4D4C-BACC-62D25F7AC6C9</string>
-		</dict>
-		<key>40948B4F-E5C3-4B88-853D-1386FC94AB75</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>40948B4F-E5C3-4B88-853D-1386FC94AB75.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>SudokuApp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SudokuApp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SudokuApp</string>
-			<key>timeStartedRecording</key>
-			<real>599399032.01846397</real>
-			<key>timeStoppedRecording</key>
-			<real>599399033.09529698</real>
-			<key>title</key>
-			<string>Build SudokuApp</string>
-			<key>uniqueIdentifier</key>
-			<string>40948B4F-E5C3-4B88-853D-1386FC94AB75</string>
-		</dict>
-		<key>414F6B51-BC73-45D1-A406-1B7EDFA76B76</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>414F6B51-BC73-45D1-A406-1B7EDFA76B76.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>SudokuApp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SudokuApp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SudokuApp</string>
-			<key>timeStartedRecording</key>
-			<real>599660615.97126102</real>
-			<key>timeStoppedRecording</key>
-			<real>599660620.09055996</real>
-			<key>title</key>
-			<string>Build SudokuApp</string>
-			<key>uniqueIdentifier</key>
-			<string>414F6B51-BC73-45D1-A406-1B7EDFA76B76</string>
-		</dict>
-		<key>55B35462-E556-4E9A-AD60-E8DD945F5D91</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>55B35462-E556-4E9A-AD60-E8DD945F5D91.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>SudokuApp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SudokuApp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SudokuApp</string>
-			<key>timeStartedRecording</key>
-			<real>599397137.11774504</real>
-			<key>timeStoppedRecording</key>
-			<real>599397137.48607397</real>
-			<key>title</key>
-			<string>Build SudokuApp</string>
-			<key>uniqueIdentifier</key>
-			<string>55B35462-E556-4E9A-AD60-E8DD945F5D91</string>
-		</dict>
-		<key>7849C665-6D76-4025-9D0F-E38223681E47</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>7849C665-6D76-4025-9D0F-E38223681E47.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>SudokuApp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SudokuApp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SudokuApp</string>
-			<key>timeStartedRecording</key>
-			<real>599658480.01109898</real>
-			<key>timeStoppedRecording</key>
-			<real>599658481.11733496</real>
-			<key>title</key>
-			<string>Build SudokuApp</string>
-			<key>uniqueIdentifier</key>
-			<string>7849C665-6D76-4025-9D0F-E38223681E47</string>
-		</dict>
-		<key>794142F6-2588-495B-A6EF-418E69866AE0</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>794142F6-2588-495B-A6EF-418E69866AE0.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>SudokuApp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SudokuApp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SudokuApp</string>
-			<key>timeStartedRecording</key>
-			<real>599396859.971789</real>
-			<key>timeStoppedRecording</key>
-			<real>599396862.46765995</real>
-			<key>title</key>
-			<string>Build SudokuApp</string>
-			<key>uniqueIdentifier</key>
-			<string>794142F6-2588-495B-A6EF-418E69866AE0</string>
-		</dict>
-		<key>8F1CE140-777D-4E49-B86C-C336EFA2A7E0</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>8F1CE140-777D-4E49-B86C-C336EFA2A7E0.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>SudokuApp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SudokuApp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SudokuApp</string>
-			<key>timeStartedRecording</key>
-			<real>599398938.10601795</real>
-			<key>timeStoppedRecording</key>
-			<real>599398939.22074997</real>
-			<key>title</key>
-			<string>Build SudokuApp</string>
-			<key>uniqueIdentifier</key>
-			<string>8F1CE140-777D-4E49-B86C-C336EFA2A7E0</string>
-		</dict>
-		<key>ADA432D5-A2E6-4A49-AB2D-7C5932BD101C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>ADA432D5-A2E6-4A49-AB2D-7C5932BD101C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>SudokuApp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SudokuApp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SudokuApp</string>
-			<key>timeStartedRecording</key>
-			<real>599396898.39563501</real>
-			<key>timeStoppedRecording</key>
-			<real>599396898.73581398</real>
-			<key>title</key>
-			<string>Build SudokuApp</string>
-			<key>uniqueIdentifier</key>
-			<string>ADA432D5-A2E6-4A49-AB2D-7C5932BD101C</string>
-		</dict>
-		<key>B14A36FC-0B47-415D-B62E-3C7D369F2E6C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>B14A36FC-0B47-415D-B62E-3C7D369F2E6C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>SudokuApp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SudokuApp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SudokuApp</string>
-			<key>timeStartedRecording</key>
-			<real>599400296.05510104</real>
-			<key>timeStoppedRecording</key>
-			<real>599400297.44652605</real>
-			<key>title</key>
-			<string>Build SudokuApp</string>
-			<key>uniqueIdentifier</key>
-			<string>B14A36FC-0B47-415D-B62E-3C7D369F2E6C</string>
-		</dict>
-		<key>BDECED28-4B76-4F9C-A715-FB8CD00A59C6</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>BDECED28-4B76-4F9C-A715-FB8CD00A59C6.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>SudokuApp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SudokuApp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SudokuApp</string>
-			<key>timeStartedRecording</key>
-			<real>599398878.79714298</real>
-			<key>timeStoppedRecording</key>
-			<real>599398882.15360999</real>
-			<key>title</key>
-			<string>Build SudokuApp</string>
-			<key>uniqueIdentifier</key>
-			<string>BDECED28-4B76-4F9C-A715-FB8CD00A59C6</string>
-		</dict>
-		<key>BED157F4-3231-4062-864B-5EE935FA443E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>BED157F4-3231-4062-864B-5EE935FA443E.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>SudokuApp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SudokuApp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SudokuApp</string>
-			<key>timeStartedRecording</key>
-			<real>599397158.76705694</real>
-			<key>timeStoppedRecording</key>
-			<real>599397159.70574903</real>
-			<key>title</key>
-			<string>Build SudokuApp</string>
-			<key>uniqueIdentifier</key>
-			<string>BED157F4-3231-4062-864B-5EE935FA443E</string>
-		</dict>
-		<key>CC102B47-3B06-4A44-B93A-50DD85690870</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>CC102B47-3B06-4A44-B93A-50DD85690870.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>SudokuApp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SudokuApp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build SudokuApp</string>
-			<key>timeStartedRecording</key>
-			<real>599656979.065575</real>
-			<key>timeStoppedRecording</key>
-			<real>599656982.15588295</real>
-			<key>title</key>
-			<string>Build SudokuApp</string>
-			<key>uniqueIdentifier</key>
-			<string>CC102B47-3B06-4A44-B93A-50DD85690870</string>
-		</dict>
-		<key>CD52C19F-C6AD-4855-A501-FB74198CC63E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>CD52C19F-C6AD-4855-A501-FB74198CC63E.xcactivitylog</string>
+			<string>00420D73-A252-4E1A-93A9-BEA0074C8A6B.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -542,15 +32,15 @@
 			<key>signature</key>
 			<string>Build SudokuApp</string>
 			<key>timeStartedRecording</key>
-			<real>599658295.86467195</real>
+			<real>599709471.71692204</real>
 			<key>timeStoppedRecording</key>
-			<real>599658296.98729801</real>
+			<real>599709473.17779505</real>
 			<key>title</key>
 			<string>Build SudokuApp</string>
 			<key>uniqueIdentifier</key>
-			<string>CD52C19F-C6AD-4855-A501-FB74198CC63E</string>
+			<string>00420D73-A252-4E1A-93A9-BEA0074C8A6B</string>
 		</dict>
-		<key>D21ED794-407F-45FD-9BB3-24EDDAD45EBF</key>
+		<key>0815B092-C7EF-4A92-BCBD-777B4D805AFB</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -559,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>D21ED794-407F-45FD-9BB3-24EDDAD45EBF.xcactivitylog</string>
+			<string>0815B092-C7EF-4A92-BCBD-777B4D805AFB.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -576,15 +66,15 @@
 			<key>signature</key>
 			<string>Build SudokuApp</string>
 			<key>timeStartedRecording</key>
-			<real>599657339.893695</real>
+			<real>599705689.83388197</real>
 			<key>timeStoppedRecording</key>
-			<real>599657341.33639598</real>
+			<real>599705693.67662203</real>
 			<key>title</key>
 			<string>Build SudokuApp</string>
 			<key>uniqueIdentifier</key>
-			<string>D21ED794-407F-45FD-9BB3-24EDDAD45EBF</string>
+			<string>0815B092-C7EF-4A92-BCBD-777B4D805AFB</string>
 		</dict>
-		<key>D5FC1294-4912-4013-8288-7671C38EB4EF</key>
+		<key>1D3C239F-A88A-4BDA-B096-7F274077203E</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -593,7 +83,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>D5FC1294-4912-4013-8288-7671C38EB4EF.xcactivitylog</string>
+			<string>1D3C239F-A88A-4BDA-B096-7F274077203E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -610,15 +100,15 @@
 			<key>signature</key>
 			<string>Build SudokuApp</string>
 			<key>timeStartedRecording</key>
-			<real>599658897.47404099</real>
+			<real>599711505.40653002</real>
 			<key>timeStoppedRecording</key>
-			<real>599658898.82809806</real>
+			<real>599711506.51959801</real>
 			<key>title</key>
 			<string>Build SudokuApp</string>
 			<key>uniqueIdentifier</key>
-			<string>D5FC1294-4912-4013-8288-7671C38EB4EF</string>
+			<string>1D3C239F-A88A-4BDA-B096-7F274077203E</string>
 		</dict>
-		<key>DAF2F716-B4A3-488E-8C2B-EA512F0E3BB3</key>
+		<key>2E1B300A-82A5-4908-BA93-0080F402B085</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -627,7 +117,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>DAF2F716-B4A3-488E-8C2B-EA512F0E3BB3.xcactivitylog</string>
+			<string>2E1B300A-82A5-4908-BA93-0080F402B085.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -644,15 +134,15 @@
 			<key>signature</key>
 			<string>Build SudokuApp</string>
 			<key>timeStartedRecording</key>
-			<real>599651480.69647706</real>
+			<real>599704176.280761</real>
 			<key>timeStoppedRecording</key>
-			<real>599651483.817788</real>
+			<real>599704177.40254796</real>
 			<key>title</key>
 			<string>Build SudokuApp</string>
 			<key>uniqueIdentifier</key>
-			<string>DAF2F716-B4A3-488E-8C2B-EA512F0E3BB3</string>
+			<string>2E1B300A-82A5-4908-BA93-0080F402B085</string>
 		</dict>
-		<key>DC434762-3FD8-44E2-9343-5BFCC8EB549D</key>
+		<key>2E2C2E61-C6EB-4586-9DF0-D8EB40616C2A</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -661,7 +151,75 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>DC434762-3FD8-44E2-9343-5BFCC8EB549D.xcactivitylog</string>
+			<string>2E2C2E61-C6EB-4586-9DF0-D8EB40616C2A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599715529.18480599</real>
+			<key>timeStoppedRecording</key>
+			<real>599715530.08330095</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>2E2C2E61-C6EB-4586-9DF0-D8EB40616C2A</string>
+		</dict>
+		<key>2E6DBAB2-A5CC-4709-A4AB-E592AC311D94</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2E6DBAB2-A5CC-4709-A4AB-E592AC311D94.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599715474.98126495</real>
+			<key>timeStoppedRecording</key>
+			<real>599715476.54653704</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>2E6DBAB2-A5CC-4709-A4AB-E592AC311D94</string>
+		</dict>
+		<key>3C62CD04-50A7-4F50-8FF6-5AC9A5A2098B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3C62CD04-50A7-4F50-8FF6-5AC9A5A2098B.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -678,15 +236,15 @@
 			<key>signature</key>
 			<string>Build SudokuApp</string>
 			<key>timeStartedRecording</key>
-			<real>599652016.55279505</real>
+			<real>599711363.70833194</real>
 			<key>timeStoppedRecording</key>
-			<real>599652021.18753302</real>
+			<real>599711366.18505502</real>
 			<key>title</key>
 			<string>Build SudokuApp</string>
 			<key>uniqueIdentifier</key>
-			<string>DC434762-3FD8-44E2-9343-5BFCC8EB549D</string>
+			<string>3C62CD04-50A7-4F50-8FF6-5AC9A5A2098B</string>
 		</dict>
-		<key>DFBCF926-A2CE-4765-BA6F-8D39303A49B8</key>
+		<key>434BEF96-5AA3-4A40-ABBF-01A46B967F8B</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -695,7 +253,41 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>DFBCF926-A2CE-4765-BA6F-8D39303A49B8.xcactivitylog</string>
+			<string>434BEF96-5AA3-4A40-ABBF-01A46B967F8B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599710161.39807403</real>
+			<key>timeStoppedRecording</key>
+			<real>599710162.49245703</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>434BEF96-5AA3-4A40-ABBF-01A46B967F8B</string>
+		</dict>
+		<key>44361A45-2AF4-410B-ADDF-52EF3C48A3F5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>44361A45-2AF4-410B-ADDF-52EF3C48A3F5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -712,15 +304,15 @@
 			<key>signature</key>
 			<string>Build SudokuApp</string>
 			<key>timeStartedRecording</key>
-			<real>599657133.28803396</real>
+			<real>599714801.97990096</real>
 			<key>timeStoppedRecording</key>
-			<real>599657135.36505795</real>
+			<real>599714803.70743501</real>
 			<key>title</key>
 			<string>Build SudokuApp</string>
 			<key>uniqueIdentifier</key>
-			<string>DFBCF926-A2CE-4765-BA6F-8D39303A49B8</string>
+			<string>44361A45-2AF4-410B-ADDF-52EF3C48A3F5</string>
 		</dict>
-		<key>F0549515-DFF4-41A0-9F86-768061A58496</key>
+		<key>46052709-0ECD-4629-9FB7-9ED2D5FFCAA3</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -729,7 +321,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>F0549515-DFF4-41A0-9F86-768061A58496.xcactivitylog</string>
+			<string>46052709-0ECD-4629-9FB7-9ED2D5FFCAA3.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -746,13 +338,1033 @@
 			<key>signature</key>
 			<string>Build SudokuApp</string>
 			<key>timeStartedRecording</key>
-			<real>599396701.92784202</real>
+			<real>599712084.71343696</real>
 			<key>timeStoppedRecording</key>
-			<real>599396706.07757497</real>
+			<real>599712085.80118203</real>
 			<key>title</key>
 			<string>Build SudokuApp</string>
 			<key>uniqueIdentifier</key>
-			<string>F0549515-DFF4-41A0-9F86-768061A58496</string>
+			<string>46052709-0ECD-4629-9FB7-9ED2D5FFCAA3</string>
+		</dict>
+		<key>468542A8-E501-4878-8EC4-FB3D8FFF3072</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>468542A8-E501-4878-8EC4-FB3D8FFF3072.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599711775.54297996</real>
+			<key>timeStoppedRecording</key>
+			<real>599711777.509655</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>468542A8-E501-4878-8EC4-FB3D8FFF3072</string>
+		</dict>
+		<key>547D0A30-2B6A-4F5A-8049-1FF220E999C2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>547D0A30-2B6A-4F5A-8049-1FF220E999C2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599709083.57465398</real>
+			<key>timeStoppedRecording</key>
+			<real>599709084.71872199</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>547D0A30-2B6A-4F5A-8049-1FF220E999C2</string>
+		</dict>
+		<key>61A1FC87-2C33-4261-88FF-F684CE43611E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>61A1FC87-2C33-4261-88FF-F684CE43611E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599709027.70569396</real>
+			<key>timeStoppedRecording</key>
+			<real>599709030.11686599</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>61A1FC87-2C33-4261-88FF-F684CE43611E</string>
+		</dict>
+		<key>6F5D84E7-0005-4EE2-A8B5-B63A32444EEE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6F5D84E7-0005-4EE2-A8B5-B63A32444EEE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599714968.63089895</real>
+			<key>timeStoppedRecording</key>
+			<real>599714969.61986804</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>6F5D84E7-0005-4EE2-A8B5-B63A32444EEE</string>
+		</dict>
+		<key>75DF6FFB-5AE5-494E-A6D9-8D0756DD38E3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>75DF6FFB-5AE5-494E-A6D9-8D0756DD38E3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599712549.44178402</real>
+			<key>timeStoppedRecording</key>
+			<real>599712549.58123302</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>75DF6FFB-5AE5-494E-A6D9-8D0756DD38E3</string>
+		</dict>
+		<key>84A4AEAF-1A1B-4887-ACB4-87EF13D5B5FF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>84A4AEAF-1A1B-4887-ACB4-87EF13D5B5FF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599711579.92837799</real>
+			<key>timeStoppedRecording</key>
+			<real>599711581.02799594</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>84A4AEAF-1A1B-4887-ACB4-87EF13D5B5FF</string>
+		</dict>
+		<key>87A75CD0-56F0-401D-9DD3-A472A03F7715</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>87A75CD0-56F0-401D-9DD3-A472A03F7715.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599711110.66447496</real>
+			<key>timeStoppedRecording</key>
+			<real>599711111.86651695</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>87A75CD0-56F0-401D-9DD3-A472A03F7715</string>
+		</dict>
+		<key>8888914A-94E0-4FD5-A0D3-C1C9F4DA4CA7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8888914A-94E0-4FD5-A0D3-C1C9F4DA4CA7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599705295.46954095</real>
+			<key>timeStoppedRecording</key>
+			<real>599705297.596084</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>8888914A-94E0-4FD5-A0D3-C1C9F4DA4CA7</string>
+		</dict>
+		<key>8E04DB31-0A53-47C5-B3E0-0491E325A636</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8E04DB31-0A53-47C5-B3E0-0491E325A636.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599716085.64590597</real>
+			<key>timeStoppedRecording</key>
+			<real>599716086.76541805</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>8E04DB31-0A53-47C5-B3E0-0491E325A636</string>
+		</dict>
+		<key>8EF8E976-CFA4-4885-A917-F34FF1020768</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8EF8E976-CFA4-4885-A917-F34FF1020768.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599715780.65637004</real>
+			<key>timeStoppedRecording</key>
+			<real>599715781.95504105</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>8EF8E976-CFA4-4885-A917-F34FF1020768</string>
+		</dict>
+		<key>944D6B38-A4EE-43E1-BD18-A111A4A9C39B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>944D6B38-A4EE-43E1-BD18-A111A4A9C39B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599710003.02661204</real>
+			<key>timeStoppedRecording</key>
+			<real>599710007.07205296</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>944D6B38-A4EE-43E1-BD18-A111A4A9C39B</string>
+		</dict>
+		<key>9C48D429-04AE-4EC1-949D-72183B383F06</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9C48D429-04AE-4EC1-949D-72183B383F06.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599711001.96035898</real>
+			<key>timeStoppedRecording</key>
+			<real>599711005.52677703</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>9C48D429-04AE-4EC1-949D-72183B383F06</string>
+		</dict>
+		<key>A3D5B8FA-B7D3-43E6-B493-A6F7AA62A904</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A3D5B8FA-B7D3-43E6-B493-A6F7AA62A904.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599709373.63311803</real>
+			<key>timeStoppedRecording</key>
+			<real>599709374.86941504</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>A3D5B8FA-B7D3-43E6-B493-A6F7AA62A904</string>
+		</dict>
+		<key>A6A3223E-721B-4816-BE0D-7D1F681059C0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A6A3223E-721B-4816-BE0D-7D1F681059C0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599711602.57996798</real>
+			<key>timeStoppedRecording</key>
+			<real>599711603.77080095</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>A6A3223E-721B-4816-BE0D-7D1F681059C0</string>
+		</dict>
+		<key>A6FD17FD-B0E2-4DDF-B4C7-A198B51AF425</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A6FD17FD-B0E2-4DDF-B4C7-A198B51AF425.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599714912.11129999</real>
+			<key>timeStoppedRecording</key>
+			<real>599714913.128304</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>A6FD17FD-B0E2-4DDF-B4C7-A198B51AF425</string>
+		</dict>
+		<key>ACCAF8F2-6254-4A97-95BD-2EEB6F416673</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ACCAF8F2-6254-4A97-95BD-2EEB6F416673.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599715707.40494895</real>
+			<key>timeStoppedRecording</key>
+			<real>599715708.53154695</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>ACCAF8F2-6254-4A97-95BD-2EEB6F416673</string>
+		</dict>
+		<key>B48261D5-D87E-4B4D-A71B-9CF44F8E32BC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B48261D5-D87E-4B4D-A71B-9CF44F8E32BC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599704860.71504903</real>
+			<key>timeStoppedRecording</key>
+			<real>599704861.10628998</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>B48261D5-D87E-4B4D-A71B-9CF44F8E32BC</string>
+		</dict>
+		<key>B573DAC6-3CFB-4CC0-9082-A63B9CC19657</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B573DAC6-3CFB-4CC0-9082-A63B9CC19657.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599708800.68746805</real>
+			<key>timeStoppedRecording</key>
+			<real>599708801.78705096</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>B573DAC6-3CFB-4CC0-9082-A63B9CC19657</string>
+		</dict>
+		<key>B6917795-C53D-4518-94FB-AF885EC856C0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B6917795-C53D-4518-94FB-AF885EC856C0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599715602.96304405</real>
+			<key>timeStoppedRecording</key>
+			<real>599715603.13069904</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>B6917795-C53D-4518-94FB-AF885EC856C0</string>
+		</dict>
+		<key>B7396A60-F61C-40E4-9608-D26EFB9873C9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B7396A60-F61C-40E4-9608-D26EFB9873C9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599715908.37451506</real>
+			<key>timeStoppedRecording</key>
+			<real>599715908.45485198</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>B7396A60-F61C-40E4-9608-D26EFB9873C9</string>
+		</dict>
+		<key>BDC76CF3-BB3A-4653-99C4-99C4F5B6BCE7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BDC76CF3-BB3A-4653-99C4-99C4F5B6BCE7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599710064.71691895</real>
+			<key>timeStoppedRecording</key>
+			<real>599710065.80487001</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>BDC76CF3-BB3A-4653-99C4-99C4F5B6BCE7</string>
+		</dict>
+		<key>C14F9486-C2E4-4FEB-8128-964C5C903A91</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C14F9486-C2E4-4FEB-8128-964C5C903A91.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599714514.87780905</real>
+			<key>timeStoppedRecording</key>
+			<real>599714515.05016601</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C14F9486-C2E4-4FEB-8128-964C5C903A91</string>
+		</dict>
+		<key>C1586F15-EEDA-4153-BABB-FEE447A0FC93</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C1586F15-EEDA-4153-BABB-FEE447A0FC93.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599709217.18119097</real>
+			<key>timeStoppedRecording</key>
+			<real>599709218.35181296</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C1586F15-EEDA-4153-BABB-FEE447A0FC93</string>
+		</dict>
+		<key>C3C59622-81B2-4B22-9DAE-643EA33296CF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C3C59622-81B2-4B22-9DAE-643EA33296CF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599711489.68992102</real>
+			<key>timeStoppedRecording</key>
+			<real>599711490.29482698</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C3C59622-81B2-4B22-9DAE-643EA33296CF</string>
+		</dict>
+		<key>C74AF876-6FA9-402F-9AA1-89D4F0CDE72C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C74AF876-6FA9-402F-9AA1-89D4F0CDE72C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599708755.85264003</real>
+			<key>timeStoppedRecording</key>
+			<real>599708760.90861595</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C74AF876-6FA9-402F-9AA1-89D4F0CDE72C</string>
+		</dict>
+		<key>CF895503-5E93-4C71-B049-DD98EC862AC6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CF895503-5E93-4C71-B049-DD98EC862AC6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599709827.98760104</real>
+			<key>timeStoppedRecording</key>
+			<real>599709831.93646705</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>CF895503-5E93-4C71-B049-DD98EC862AC6</string>
+		</dict>
+		<key>D1E3F38A-F407-434C-A203-9732A2842919</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D1E3F38A-F407-434C-A203-9732A2842919.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599712047.82979596</real>
+			<key>timeStoppedRecording</key>
+			<real>599712048.81812298</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>D1E3F38A-F407-434C-A203-9732A2842919</string>
+		</dict>
+		<key>E31422FE-A8F2-4C91-8148-56D190FC481B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E31422FE-A8F2-4C91-8148-56D190FC481B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599705519.13860595</real>
+			<key>timeStoppedRecording</key>
+			<real>599705523.41202796</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>E31422FE-A8F2-4C91-8148-56D190FC481B</string>
+		</dict>
+		<key>F4AC89AF-01F0-489E-86A2-D77837FD1ACD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F4AC89AF-01F0-489E-86A2-D77837FD1ACD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599717551.55720699</real>
+			<key>timeStoppedRecording</key>
+			<real>599717551.73110402</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F4AC89AF-01F0-489E-86A2-D77837FD1ACD</string>
+		</dict>
+		<key>FD90BC27-BBCB-4F02-90D5-870308C692DC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FD90BC27-BBCB-4F02-90D5-870308C692DC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SudokuApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SudokuApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SudokuApp</string>
+			<key>timeStartedRecording</key>
+			<real>599711941.46053898</real>
+			<key>timeStoppedRecording</key>
+			<real>599711942.64066994</real>
+			<key>title</key>
+			<string>Build SudokuApp</string>
+			<key>uniqueIdentifier</key>
+			<string>FD90BC27-BBCB-4F02-90D5-870308C692DC</string>
 		</dict>
 	</dict>
 </dict>

@@ -11,9 +11,11 @@ depends-top-level:
 - !private "%"
 - !private "&&"
 - !private "+"
+- !private "+="
 - !private "-"
 - !private "..."
 - !private "=="
+- !private ">"
 - "AssignmentPrecedence"
 - "Bool"
 - !private "BooleanLiteralType"
@@ -21,8 +23,6 @@ depends-top-level:
 - "Helper"
 - "Int"
 - !private "IntegerLiteralType"
-- "String"
-- !private "StringLiteralType"
 - !private "print"
 depends-member:
 - !private ["Sa", "subscript"]
@@ -42,15 +42,13 @@ depends-member:
 - !private ["SH", "subscript"]
 - ["9SudokuApp6HelperC", "Bool"]
 - ["9SudokuApp6HelperC", "Int"]
-- ["9SudokuApp6HelperC", "String"]
 - ["9SudokuApp6HelperC", "checkBox"]
 - ["9SudokuApp6HelperC", "checkCol"]
 - ["9SudokuApp6HelperC", "checkRow"]
-- ["9SudokuApp6HelperC", "findEmptyCell"]
 - ["9SudokuApp6HelperC", "init"]
+- ["9SudokuApp6HelperC", "isValidBoard"]
 - !private ["9SudokuApp6HelperC", "print"]
 - ["9SudokuApp6HelperC", "solve"]
-- ["9SudokuApp6HelperC", "test"]
 - ["9SudokuApp6HelperC", "validEntry"]
 - !private ["s20LazySequenceProtocolP", "subscript"]
 - !private ["SM", "subscript"]
@@ -1306,4 +1304,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "5ff684bcbc07e8bcee4ec1effecf4389"
+interface-hash: "7777b5c3deda81c77996d0512e954978"

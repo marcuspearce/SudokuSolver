@@ -227,15 +227,20 @@ SWIFT_CLASS("_TtC9SudokuApp13SceneDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class UILabel;
 @class UIButton;
 @class NSBundle;
 @class NSCoder;
 
 SWIFT_CLASS("_TtC9SudokuApp14ViewController")
 @interface ViewController : UIViewController
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified feedbackLabel;
 @property (nonatomic, copy) IBOutletCollection(UIButton) NSArray<UIButton *> * _Nullable collectionOfButtons;
 - (IBAction)pressSolveButton:(id _Nonnull)sender;
 - (IBAction)pressSampleButton:(id _Nonnull)sender;
+- (IBAction)pressResetButton:(id _Nonnull)sender;
+- (IBAction)pressTileSelectorButton:(id _Nonnull)sender;
+- (IBAction)pressTile:(id _Nonnull)sender;
 - (void)viewDidLoad;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
